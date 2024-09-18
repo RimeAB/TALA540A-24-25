@@ -24,7 +24,7 @@ Utilisation modèles pré-entraînés
 
 ## Étape 2
 ### être capable de lire le corpus, et l'analyser
-- Comment le corpus est structuré ? (Regardez le format, le type d'annotation, les colonnes ...) 
+- Comment est structuré le corpus ? (Regardez le format, le type d'annotation, les colonnes ...) 
 - Combien d'énoncés ?
     - `cat fr_sequoia-ud-test.conllu | grep -c "# text"`
     - ou `wc -l fr_sequoia_test.txt`

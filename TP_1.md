@@ -11,6 +11,7 @@ Utilisation modèles pré-entraînés
     - `cd [nom_du_dossier]`
     - avec conda 
         - `conda create -n [nom_du_venv] python=3.9.18`
+        - `conda activate [nom_du_venv]`
     - `pip install spacy`
     - `python -m spacy download fr_core_news_sm`
     - trouver du corpus:

@@ -1,4 +1,5 @@
 # TALA540A-24-25
+
 Outils
 - Spacy https://spacy.io
 - NLTK https://www.nltk.org/
@@ -20,3 +21,6 @@ Ressources
 - Google scholar https://scholar.google.com 
 - Hugging Face https://huggingface.co
 - kaggle https://www.kaggle.com
+
+Lien partagé 
+- https://docs.google.com/spreadsheets/d/1AR-J9wf7Q8PG1DrxBGmPXeMp3bM91f_e5KF4o7cln_c/edit?usp=sharing

@@ -17,9 +17,9 @@ Utilisation modèles pré-entraînés
     - trouver du corpus:
     - `wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-test.conllu`
     - version texte brute: 
-        `cat fr_sequoia-ud-test.conllu | grep "# text" | sed 's/# text = //'` 
+        - `cat fr_sequoia-ud-test.conllu | grep "# text" | sed 's/# text = //'` 
     - mettre la sortie dans un fichier txt: 
-        `cat fr_sequoia-ud-test.conllu | grep "# text" | sed 's/# text = //' > fr_sequoia_test.txt`
+        - `cat fr_sequoia-ud-test.conllu | grep "# text" | sed 's/# text = //' > fr_sequoia_test.txt`
         
 
 ## Étape 2

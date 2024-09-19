@@ -24,3 +24,19 @@ Ressources
 
 Lien partagé 
 - https://docs.google.com/spreadsheets/d/1AR-J9wf7Q8PG1DrxBGmPXeMp3bM91f_e5KF4o7cln_c/edit?usp=sharing
+
+# Exposé à faire pour la séance prochaine: 
+- Durée : 7 à 10 minutes
+- Choisissez 2 ou 3 outils
+- Présentez leurs fonctionnalités, avantages, et limites
+- Indiquez s'il y a des difficultés d'installation
+- Précisez les langues supportées
+- Expliquez ce que ces outils permettent de réaliser
+
+Soyez clair et n'hésitez pas à ajouter vos remarques!
+
+
+
+
+
+

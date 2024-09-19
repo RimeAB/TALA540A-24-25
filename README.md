@@ -25,7 +25,7 @@ Ressources
 Lien partagé 
 - https://docs.google.com/spreadsheets/d/1AR-J9wf7Q8PG1DrxBGmPXeMp3bM91f_e5KF4o7cln_c/edit?usp=sharing
 
-# Exposé à faire pour la séance prochaine: 
+# Exposé à faire pour la prochaine séance : 
 - Durée : 7 à 10 minutes
 - Choisissez 2 ou 3 outils
 - Présentez leurs fonctionnalités, avantages, et limites

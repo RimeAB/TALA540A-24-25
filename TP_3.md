@@ -23,4 +23,4 @@
   - https://spacy.io/models/fr
  
 ## Étape 5 
-### Evaluation   
+### Évaluation   

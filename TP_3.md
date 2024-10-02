@@ -1,5 +1,5 @@
 # TP Spacy - Structure et Evaluation (à rendre) 
-(séances 2 et 3)
+(séances 3 et 4)
 
 ## Étape 1
 ### Télécharger une version des données Winer 2018 

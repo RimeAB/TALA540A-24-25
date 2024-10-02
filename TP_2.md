@@ -1,5 +1,5 @@
 # TP Spacy - Evaluation 
-(séances 2 et 3)
+(séances 3 et 4)
 
 ## Étape 1
 ### Charger les objets Doc de Spacy et appliquer le modèle POS

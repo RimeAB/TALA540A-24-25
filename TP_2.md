@@ -9,7 +9,6 @@
 ### Relever les cas particuliers du corpus 
 - Les séquences les plus longues
 - Les labels les plus fréquents, les moins fréquents  
-- Tout ce qui vous semble pertinent 
 - Créer des sous-corpus à partir des cas particuliers 
 
 ## Étape 3 

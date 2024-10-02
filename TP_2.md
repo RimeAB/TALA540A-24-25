@@ -17,7 +17,7 @@
 Calculer les performances de votre modèle
  - Par rapport au corpus gold 
  - Performances du modèle sur les sous-ensembles (les cas particuliers) 
- - Qu'est-ce que vous pensez? 
+ - Que pensez-vous? 
 
 ## Étape 4 
 ### Faire votre propre script d'évaluation (à rendre) 

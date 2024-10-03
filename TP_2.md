@@ -9,13 +9,13 @@
 ### Relever les cas particuliers du corpus 
 - Les séquences les plus longues
 - Les labels les plus fréquents, les moins fréquents  
-- Créer des sous-corpus à partir des cas particuliers 
+- Créer un sous-corpus à partir des séquences les plus longues
 
 ## Étape 3 
 ### Évaluation
 Calculer les performances de votre modèle
  - Par rapport au corpus gold 
- - Performances du modèle sur les sous-ensembles (les cas particuliers) 
+ - Performances du modèle sur le sous-ensemble (séquences les plus longues) 
  - Que pensez-vous? 
 
 ## Étape 4 

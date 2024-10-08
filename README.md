@@ -35,6 +35,10 @@ Machine Learning
 - https://members.loria.fr/FSur/enseignement/apprauto/poly_apprauto_FSur.pdf
 - https://medium.com/towards-artificial-intelligence/data-structures-in-machine-learning-a-comprehensive-guide-to-efficiency-and-scalability-f7429919c9c5
 
+Transformers
+- Attention is all you need: https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf
+- https://jalammar.github.io/illustrated-transformer/
+
 
 
 

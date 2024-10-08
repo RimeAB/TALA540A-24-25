@@ -3,9 +3,9 @@ Entraînement
 
 
 ## Étape 1: préparation du corpus
-wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-test.conllu
-wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-train.conllu
-wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-dev.conllu
+- wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-test.conllu
+- wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-train.conllu
+- wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-dev.conllu
 
 
 Option simple: convertir des fichiers conllu en corpus d'entraînement.

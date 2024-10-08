@@ -12,7 +12,7 @@ Option simple: convertir des fichiers conllu en corpus d'entraînement.
 cf. https://spacy.io/api/cli#convert
 
 - à faire pour les train, dev et test
-- à faire pour d'autres sous-corpus
+- à faire pour d'autres sous-corpus (OOV, séquences les plus longues)
 
 ## Étape 2: configuration de la pipeline
 

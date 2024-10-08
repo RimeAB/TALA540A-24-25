@@ -50,5 +50,3 @@ Commande:
 
 ## Étape 4: Évaluation (cf. TP précédent)
 
-
-## Étape 5: refaire la même chose sur un autre langue/d'autres corpus

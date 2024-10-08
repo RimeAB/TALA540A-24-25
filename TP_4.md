@@ -1,5 +1,5 @@
 # TP Spacy POS tagging
-Entraînement de nouveau modèles
+Entraînement
 
 
 ## Étape 1: préparation du corpus

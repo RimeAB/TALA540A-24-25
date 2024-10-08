@@ -16,7 +16,8 @@ Outils
 - ...
 
 Ressources
-- https://www.coursera.org/
+- Coursera: https://www.coursera.org/
+- Openclassrooms: https://openclassrooms.com/fr/
 - ACL https://aclanthology.org
 - PaperWithCodie https://paperswithcode.com
 - Google scholar https://scholar.google.com 

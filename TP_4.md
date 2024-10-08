@@ -48,5 +48,5 @@ Commande:
 
 (adapter les chemins en fonction de votre environement)
 
-## Étape 4: Évaluation (cf. TP précédent)
+## Étape 4: Évaluation 
 

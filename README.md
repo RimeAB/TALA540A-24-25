@@ -22,6 +22,17 @@ Ressources
 - Hugging Face https://huggingface.co
 - kaggle https://www.kaggle.com
 
+Evaluation
+- https://jaimin-ml2001.medium.com/evaluation-methods-in-natural-language-processing-nlp-part-1-ffd39c90c04f
+- https://outcomerea.fr/images/stories/docman/NLP-nakache2005.pdf
+- https://aclanthology.org/2020.eval4nlp-1.9.pdf
+- https://arxiv.org/pdf/2401.03831
+
+Machine Learning 
+- https://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/ressources/pedagogiques/14512/14512-introduction-lapprentissage-automatique-ensps.pdf
+- https://members.loria.fr/FSur/enseignement/apprauto/poly_apprauto_FSur.pdf
+- https://medium.com/towards-artificial-intelligence/data-structures-in-machine-learning-a-comprehensive-guide-to-efficiency-and-scalability-f7429919c9c5
+
 
 
 

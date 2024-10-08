@@ -16,6 +16,7 @@ Outils
 - ...
 
 Ressources
+- https://www.coursera.org/
 - ACL https://aclanthology.org
 - PaperWithCodie https://paperswithcode.com
 - Google scholar https://scholar.google.com 

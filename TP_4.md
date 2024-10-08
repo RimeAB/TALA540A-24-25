@@ -3,14 +3,16 @@ Entraînement
 
 
 ## Étape 1: préparation du corpus
+wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-test.conllu
+wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-train.conllu
+wget https://github.com/UniversalDependencies/UD_French-Sequoia/raw/master/fr_sequoia-ud-dev.conllu
 
+
+Option simple: convertir des fichiers conllu en corpus d'entraînement.
 cf https://spacy.io/api/cli#convert
-
-Option simple: convertir des fichiers conllu en corpus d'entraînement. Par exemple avec sequoia:
 
 - à faire pour les train, dev et test
 - à faire pour d'autres (sous-)corpus
-
 
 ## Étape 2: configuration de la pipeline
 

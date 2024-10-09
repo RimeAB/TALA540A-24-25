@@ -50,3 +50,5 @@ Commande:
 
 ## Étape 4: Évaluation 
 
+## Étape 5: Comparaison avec un modèle sur Hugging-Face
+

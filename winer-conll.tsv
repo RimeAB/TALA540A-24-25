@@ -7,7 +7,7 @@
 4	:	O
 
 # BIOES format (Bigining, Inside, Outside, Ending, Single) 
-# text = Cérémonie de clôture des Jeux olympiques d'hiver de 2018  25 février 2018 .
+# text = Cérémonie de clôture des Jeux olympiques d'hiver de 2018 .
 1	Cérémonie	O
 2	de	O
 3	clôture	O
@@ -17,9 +17,5 @@
 7	d'	I-Event
 8	hiver	I-Event
 9	de	I-Event
-10	2018	E-Event
-11	 	O
-12	25	B-Date
-13	février	I-Date
-14	2018	E-Date
-15	.	O
+10	2018	E-Event | S-Date
+11	 .	O

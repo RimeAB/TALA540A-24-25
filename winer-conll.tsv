@@ -1,0 +1,25 @@
+# BIO format (Bigining, Inside, Outside)
+# global.columns = ID FORM NER
+# text = Jeux olympiques 2018 :
+1	Jeux	B-Event
+2	olympiques	I-Event
+3	2018	I-Event
+4	:	O
+
+# BIOES format (Bigining, Inside, Outside, Ending, Single) 
+# text = Cérémonie de clôture des Jeux olympiques d'hiver de 2018  25 février 2018 .
+1	Cérémonie	O
+2	de	O
+3	clôture	O
+4	des	O
+5	Jeux	B-Event
+6	olympiques	I-Event
+7	d'	I-Event
+8	hiver	I-Event
+9	de	I-Event
+10	2018	E-Event
+11	 	O
+12	25	B-Date
+13	février	I-Date
+14	2018	E-Date
+15	.	O

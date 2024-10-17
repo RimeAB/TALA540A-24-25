@@ -65,6 +65,6 @@ Votre projet sera évalué selon les critères suivants :
 
 Votre projet doit être déposé sous la forme d’un Jupyter notebook, accompagné du code source et des éventuels scripts utilisés pour l'analyse et l'évaluation. Veuillez inclure des instructions claires pour exécuter votre code. Vous pouvez également m’envoyer un lien vers un dépôt GitHub ou le fichier par mail. 
 
-**Date limite :** à la fin de la séance de 07/11/2024 (pas avant) 
+**Date limite :** à la fin de la séance du 07/11/2024 (pas avant) 
 
 **Les membres du groupe doivent écrire leur nom dans ce lien**: https://docs.google.com/spreadsheets/d/1S6C0oveQnSOZviL7qGdz9nVW1KIlFVIG6xkdbHmc4nY/edit?usp=sharing

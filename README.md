@@ -16,6 +16,7 @@ Outils
 - ...
 
 Ressources
+- https://www.deeplearning.ai
 - Coursera: https://www.coursera.org/
 - Openclassrooms: https://openclassrooms.com/fr/
 - ACL https://aclanthology.org

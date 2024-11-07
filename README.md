@@ -1,4 +1,3 @@
-# TALA540A-24-25
 
 # Examen Partie 2 : Présentations des Articles
 

@@ -17,10 +17,11 @@
 - La présentation doit durer **maximum 15 minutes**, suivie de **5 minutes de questions**.
 
 ## Liste des articles pour les présentations de la semaine prochaine :
-- **AROUN Jeevya** : *REVISE THE NLU: A PROMPTING STRATEGY FOR ROBUST DIALOGUE SYSTEMS*
-- **CHEN Lian** : *ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks*
-- **CHEN Siman** : *Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue*
-- **CHEN Xinlei** : *SweDiagnostics: A Diagnostics Natural Language Inference Dataset for Swedish*
+- **CONG Jinyu** : *A linguistically-motivated evaluation methodology for unraveling model’s abilities in reading comprehension tasks*
+- **LI Zhongjie** : *SpeechBERTScore: Reference-Aware Automatic Evaluation of Speech
+Generation Leveraging NLP Evaluation Metrics*
+- **MANET Léa** : *CNER: Concept and Named Entity Recognition*
+- **NGAUV Nicolas** : *Active learning for Arabic sentiment analysis*
 
 # Examen Partie 3 : Travail de Groupe
 

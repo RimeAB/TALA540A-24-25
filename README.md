@@ -17,11 +17,10 @@
 - La présentation doit durer **maximum 15 minutes**, suivie de **5 minutes de questions**.
 
 ## Liste des articles pour les présentations de la semaine prochaine :
-- **CONG Jinyu** : *A linguistically-motivated evaluation methodology for unraveling model’s abilities in reading comprehension tasks*
-- **LI Zhongjie** : *SpeechBERTScore: Reference-Aware Automatic Evaluation of Speech
-Generation Leveraging NLP Evaluation Metrics*
-- **MANET Léa** : *CNER: Concept and Named Entity Recognition*
-- **NGAUV Nicolas** : *Active learning for Arabic sentiment analysis*
+- **QUENNEHEN Perrine** : *SummEQuAL: Summarization Evaluation via Question Answering using Large Language Models*
+- **SCHLOSSER Guilhem** : *Evaluating Large Language Models in Semantic Parsing for
+Conversational Question Answering over Knowledge Graphs*
+- **SHEN Yuntian** : *End-to-end Neural Coreference Resolution*
 
 # Examen Partie 3 : Travail de Groupe
 

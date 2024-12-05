@@ -17,9 +17,8 @@
 - La présentation doit durer **maximum 15 minutes**, suivie de **5 minutes de questions**.
 
 ## Liste des articles pour les présentations de la semaine prochaine :
-- **THEZENAS Anissa** : *Coreference Resolution through a seq2seq Transition-Based System*
-- **WEN Yu-Chieh** : *Leveraging Large Text Corpora for End-to-End Speech Summarization*
-- **YI Kemingi** : *RAG-QA Arena: Evaluating Domain Robustness for Long-Form Retrieval-Augmented Question Answering*
+- **ZHANG Lidan** : *GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer*
+- **ZHANG Weiqi** : *Parameter-Efficient Transfer Learning for NLP*
 
 
 # Examen Partie 3 : Travail de Groupe

@@ -28,6 +28,7 @@
 - Choisissez un article, essayez de reproduire les expériences décrites, et comparez vos résultats par rapport à la baseline.
 
 # Examen Partie 4 : Rédaction d'un Article
+- https://lrec-coling-2024.org/authors-kit/
 
 ## Instructions
 - Les consignes supplémentaires seront fournies prochainement.

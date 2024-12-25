@@ -67,4 +67,3 @@ Votre projet doit être déposé sous la forme d’un Jupyter notebook, accompag
 
 **Date limite :** à la fin de la séance du 07/11/2024 (pas avant) 
 
-**Les membres du groupe doivent écrire leur nom dans ce lien**: https://docs.google.com/spreadsheets/d/1S6C0oveQnSOZviL7qGdz9nVW1KIlFVIG6xkdbHmc4nY/edit?usp=sharing
